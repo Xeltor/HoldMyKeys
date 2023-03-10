@@ -3,7 +3,7 @@ gameList := Map(
     "Path of Exile", "ahk_class TODO_poe_game",
     "Diablo III", "ahk_class TODO_d3_game",
     "Diablo IV", "ahk_class TODO_d4_game",
-    "Last Epoch", "ahk_class TODO_le_game"
+    "Last Epoch", "ahk_class UnityWndClass"
 )
 
 DetectGame() {
